@@ -35,9 +35,4 @@ npm start
 The application will be accessible at http://localhost:3000.
 
 Live Demo:
-
-<<<<<<< HEAD
-Experience the live version of RoboFriends here: RoboFriends Live Demo
-=======
-Experience the live version of RoboFriends here: RoboFriends Live Demo
->>>>>>> af2b032cfa01c61bf7f84186006bb1e2eccb1274
+https://davidmcosta.github.io/robofriends/
