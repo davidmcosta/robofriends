@@ -20,16 +20,24 @@ Getting Started:
 
 To run this project locally:
 
-Clone the repository: git clone https://github.com/davidmcosta/robofriends.git
+Clone the repository:
+git clone https://github.com/davidmcosta/robofriends.git
 
-Navigate to the project directory: cd robofriends
+Navigate to the project directory:
+cd robofriends
 
-Install dependencies: npm install
+Install dependencies:
+npm install
 
-Start the development server: npm start
+Start the development server:
+npm start
 
 The application will be accessible at http://localhost:3000.
 
 Live Demo:
 
+<<<<<<< HEAD
 Experience the live version of RoboFriends here: RoboFriends Live Demo
+=======
+Experience the live version of RoboFriends here: RoboFriends Live Demo
+>>>>>>> af2b032cfa01c61bf7f84186006bb1e2eccb1274
