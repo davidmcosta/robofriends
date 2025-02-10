@@ -21,7 +21,7 @@ Getting Started:
 To run this project locally:
 
 Clone the repository:
-git clone https://github.com/aneagoie/robofriends.git
+git clone https://github.com/davidmcosta/robofriends.git
 
 Navigate to the project directory:
 cd robofriends
