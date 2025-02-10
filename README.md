@@ -1,70 +1,39 @@
-RoboFriends is a responsive, single-page web application developed using React. It allows users to search and filter robot profiles in real-time. The app utilizes hooks with Redux for state management, and incorporates unit and snapshot testing using the React Testing Library and Jest. Data is fetched from a mock API provided by JSONPlaceholder, and robot avatars are generated using RoboHash. Styling is implemented with the Tachyons CSS framework. The application achieves a 100% performance rating on Google Lighthouse for desktop platforms. 
-GITHUB.COM
+The RoboFriends project is part of the curriculum in the Zero To Mastery course led by Andrei Neagoie. This responsive, single-page React application allows users to search and filter robot profiles in real-time. It's designed to teach fundamental React concepts, including component structure, state management, and the use of props.
 
 Key Features:
 
-Intelligent Search: Filters robot profiles dynamically as the user types, enhancing user experience.
+Real-Time Search: As users type into the search bar, the list of robot profiles filters instantly, providing immediate feedback.
 
-State Management: Employs React hooks in conjunction with Redux for efficient state handling.
+Responsive Design: The application is optimized for various screen sizes, ensuring a seamless experience across devices.
 
-Testing: Incorporates unit and snapshot testing to ensure code reliability and maintainability.
-
-Responsive Design: Utilizes the Tachyons CSS framework to ensure a responsive and visually appealing interface across various devices.
-
-Performance: Achieves a perfect score on Google Lighthouse for desktop performance.
+Dynamic Data Rendering: Robot profiles are dynamically generated, showcasing React's capability to handle dynamic data.
 
 Technologies Used:
 
-React
+React: For building the user interface components.
 
-Redux
+JavaScript: The primary programming language for logic implementation.
 
-React Testing Library
-
-Jest
-
-JSONPlaceholder API
-
-RoboHash
-
-Tachyons CSS
+CSS: For styling the application and ensuring a responsive layout.
 
 Getting Started:
 
 To run this project locally:
 
 Clone the repository:
+git clone https://github.com/aneagoie/robofriends.git
 
-bash
-Copiar código
-git clone https://github.com/Sonnyburni/robofriends.git
 Navigate to the project directory:
-
-bash
-Copiar código
 cd robofriends
+
 Install dependencies:
-
-bash
-Copiar código
 npm install
-Start the development server:
 
-bash
-Copiar código
+Start the development server:
 npm start
+
 The application will be accessible at http://localhost:3000.
 
 Live Demo:
 
 Experience the live version of RoboFriends here: RoboFriends Live Demo
-
-Acknowledgements:
-
-This project was developed as part of the Zero To Mastery course by Andrei Neagoie. Special thanks to the ZTM community for their support and guidance.
-
-License:
-
-This project is licensed under the MIT License.
-
-For more details, please refer to the LICENSE file.
